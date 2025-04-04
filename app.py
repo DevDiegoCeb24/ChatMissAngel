@@ -13,7 +13,7 @@ org_id=os.getenv("ORG_ID")
 
 st.set_page_config(layout="centered")
 
-st.title("Ingeniero De Prompts")
+st.title("MissAngell")
 st.markdown("---")
 
 # init chat
